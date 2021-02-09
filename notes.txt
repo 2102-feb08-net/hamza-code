@@ -4,3 +4,7 @@ good git practices:
  - commit often with messages
  - push often
  - pull often
+
+whats the difference between field and property?
+    - for properties, the getter and setters are easier/quicker to write and fields are easier to use for other methods. (look into it more).
+    

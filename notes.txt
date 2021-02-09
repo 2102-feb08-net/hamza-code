@@ -1,3 +1,6 @@
 What |, >, .. means in bash
 
-temp change.
+good git practices:
+ - commit often with messages
+ - push often
+ - pull often

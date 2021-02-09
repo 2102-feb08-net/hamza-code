@@ -1,0 +1,8 @@
+# each line here specifies a pattern
+# if any file or folder in the repo mathces any of these patterns,
+# it will be ignored.
+bin
+obj
+
+# if a file is /already tracked/ by git, the gitignore will not by itself remove
+# it.

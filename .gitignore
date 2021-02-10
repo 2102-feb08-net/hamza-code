@@ -3,6 +3,7 @@
 # it will be ignored.
 bin
 obj
+.vs
 
 # if a file is /already tracked/ by git, the gitignore will not by itself remove
 # it.

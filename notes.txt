@@ -7,4 +7,6 @@ good git practices:
 
 whats the difference between field and property?
     - for properties, the getter and setters are easier/quicker to write and fields are easier to use for other methods. (look into it more).
+    - properties is how the outside world gets access to data from an object. fields are usually where data is stored for the object (could be
+	    private).
     

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime.Services", "Prime.Services\Prime.Services.csproj", "{16132CBA-FD00-43E3-980B-C70DDE2A6145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime.Services.Tests", "Prime.Services.Tests\Prime.Services.Tests.csproj", "{139FA8EC-F8FD-4E9F-AA85-85E36C94C398}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16132CBA-FD00-43E3-980B-C70DDE2A6145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16132CBA-FD00-43E3-980B-C70DDE2A6145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16132CBA-FD00-43E3-980B-C70DDE2A6145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16132CBA-FD00-43E3-980B-C70DDE2A6145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{139FA8EC-F8FD-4E9F-AA85-85E36C94C398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{139FA8EC-F8FD-4E9F-AA85-85E36C94C398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{139FA8EC-F8FD-4E9F-AA85-85E36C94C398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{139FA8EC-F8FD-4E9F-AA85-85E36C94C398}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {208F2B93-271C-472D-B7CB-187BFFB73B99}
+	EndGlobalSection
+EndGlobal

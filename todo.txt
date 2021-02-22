@@ -1,2 +1,0 @@
-install slack desktop app
-revature connect and email
